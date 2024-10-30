@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Live Site URL](https://codepapa360.github.io/QR-code-component/)
+- [Live Site URL](https://qr-code-component-alamin.netlify.app)
 
 ## My process
 
@@ -18,5 +18,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
